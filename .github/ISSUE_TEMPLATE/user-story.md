@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-As a Site User, I can click on a post so that I can read the full text.
+As a Site User / Admin I can view comments on an individual post so that I can read the conversation.
 
-** Acceptance Criteria**
-AC1 When a blog post title is clicked on a detailed view of the post is seen.
+**Acceptance Criteria**
+AC1 Given one or more user comments the admin can view them.
+AC2 Then a site user can click on the comment thread to read the conversation.
