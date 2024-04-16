@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-As a Site User I can register an account so that I can comment on a post.
+As a Site User I can leave comments on a post so that I can be involved in the conversation
 
 **Acceptance Criteria**
-AC1 Given an email a user can register an account.
-AC2 Then the user can log in.
-AC3 When the user is logged in they can comment.
+AC1 When a user comment is approved
+AC2 Then a user can reply
+AC3 Given more than one comment then there is a conversation thread
