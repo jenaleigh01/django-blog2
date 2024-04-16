@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-As a Site User I can modify or delete my comment on a post so that I can be involved in the conversation
+As a Site Admin I can create, read, update and delete posts so that I can manage my blog content
 
 **Acceptance Criteria**
-AC1 Given a logged in user, they can modify their comment
-AC2 Given a logged in user, they can delete their comment
+AC1 Given a logged in user, they can create a blog post
+AC2 Given a logged in user, they can read a blog post
+AC3 Given a logged in user, they can update a blog post
+AC4 Given a logged in user, they can delete a blog post
