@@ -3,14 +3,11 @@ name: USER STORY
 about: Custom template for project user stories
 title: ''
 labels: ''
-assignees: jenaleigh01
+assignees: ''
 
 ---
 
-As a **role** I can **capability** so that **received benefit**
+As a Site User, I can click on a post so that I can read the full text.
 
-- Acceptance criteria 1
-
-- Acceptance criteria 2
-
-- Acceptance criteria 3
+** Acceptance Criteria**
+AC1 When a blog post title is clicked on a detailed view of the post is seen.
