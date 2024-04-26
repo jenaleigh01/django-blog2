@@ -7,8 +7,7 @@ assignees: ''
 
 ---
 
-As a Site Admin I can approve or disapprove comments so that I can filter out objectionable comments
+As a Site User, I can click on the About link so that I can read about the site.
 
 **Acceptance Criteria**
-AC1 Given a logged in user, they can approve a comment
-AC2 Given a logged in user, they can disapprove a comment
+AC1 When the About link is clicked, the about text is visible.
