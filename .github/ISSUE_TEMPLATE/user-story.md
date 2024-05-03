@@ -7,8 +7,7 @@ assignees: ''
 
 ---
 
-As a Site Admin I can approve or disapprove comments so that I can filter out objectionable comments
+As a Site Admin, I can create or update the about page content so that it is available on the site.
 
 **Acceptance Criteria**
-AC1 Given a logged in user, they can approve a comment
-AC2 Given a logged in user, they can disapprove a comment
+AC1 The About app is visible in the admin panel.
