@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-As a Potential Collaborator I can fill in a contact form so that I can submit a request for collaboration.
+As a Site Owner I can store collaboration requests in the database so that I can review them.
 
 **Acceptance Criteria**
-Contact form is available to input my details to submit a request for possible collaboration
+Collaboration requests are stored on database, available to review.
