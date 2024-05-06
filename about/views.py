@@ -8,7 +8,7 @@ def about_me(request):
     """
     renders the about page 
     """
-
+    
     if request.method == "POST":
         collaborate_form = CollaborateForm(data=request.POST)
         if collaborate_form.is_valid():
