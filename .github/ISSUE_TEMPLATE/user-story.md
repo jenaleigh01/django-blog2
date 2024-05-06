@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-As a Site Admin, I can create or update the about page content so that it is available on the site.
+As a Potential Collaborator I can fill in a contact form so that I can submit a request for collaboration.
 
 **Acceptance Criteria**
-AC1 The About app is visible in the admin panel.
+Contact form is available to input my details to submit a request for possible collaboration
