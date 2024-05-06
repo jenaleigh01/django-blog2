@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-As a Site Admin, I can create or update the about page content so that it is available on the site.
+As a Site Owner I can store collaboration requests in the database so that I can review them.
 
 **Acceptance Criteria**
-AC1 The About app is visible in the admin panel.
+Collaboration requests are stored on database, available to review.
